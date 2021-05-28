@@ -1,0 +1,22 @@
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\bin\Debug\Seyahat.exe.config
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\bin\Debug\Seyahat.exe
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\bin\Debug\Seyahat.pdb
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\obj\Debug\Seyahat.Form1.resources
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\obj\Debug\Seyahat.Properties.Resources.resources
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\obj\Debug\Seyahat.csproj.GenerateResource.cache
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\obj\Debug\Seyahat.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\obj\Debug\Seyahat.exe
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\obj\Debug\Seyahat.pdb
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\obj\Debug\Seyahat.Form2.resources
+C:\Users\oktay\Documents\Ybs\C#\Seyahat\obj\Debug\Seyahat.csprojAssemblyReference.cache
+E:\C# Programlama\Seyahat\bin\Debug\Seyahat.exe.config
+E:\C# Programlama\Seyahat\bin\Debug\Seyahat.exe
+E:\C# Programlama\Seyahat\bin\Debug\Seyahat.pdb
+E:\C# Programlama\Seyahat\obj\Debug\Seyahat.csprojAssemblyReference.cache
+E:\C# Programlama\Seyahat\obj\Debug\Seyahat.Form1.resources
+E:\C# Programlama\Seyahat\obj\Debug\Seyahat.Form2.resources
+E:\C# Programlama\Seyahat\obj\Debug\Seyahat.Properties.Resources.resources
+E:\C# Programlama\Seyahat\obj\Debug\Seyahat.csproj.GenerateResource.cache
+E:\C# Programlama\Seyahat\obj\Debug\Seyahat.csproj.CoreCompileInputs.cache
+E:\C# Programlama\Seyahat\obj\Debug\Seyahat.exe
+E:\C# Programlama\Seyahat\obj\Debug\Seyahat.pdb
